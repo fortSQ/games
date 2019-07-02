@@ -24,8 +24,8 @@
 Воин - 6, Тролль - 4, Крепкий - 2, Шаман - 2, Дикарь - 2, Человек - 2, Демон - 1
 ```
 
-![](https://github.com/fortSQ/games/raw/master/dota_underlords/img/warriors+trolls_desk.PNG)
-![](https://github.com/fortSQ/games/raw/master/dota_underlords/img/warriors+trolls_result.PNG)
+![](img/warriors+trolls_desk.PNG)
+![](img/warriors+trolls_result.PNG)
 
 # Рыцари
 
@@ -53,5 +53,5 @@
 Рыцарь - 6, Человек - 4, Убийца - 3, Дракон - 2, Дикарь - 2, Демон - 1
 ```
 
-![](https://github.com/fortSQ/games/raw/master/dota_underlords/img/knights_desk.PNG)
-![](https://github.com/fortSQ/games/raw/master/dota_underlords/img/khights_result.PNG)
+![](img/knights_desk.PNG)
+![](img/khights_result.PNG)
