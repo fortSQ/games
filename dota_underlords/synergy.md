@@ -24,8 +24,13 @@
 Воин - 6, Тролль - 4, Крепкий - 2, Шаман - 2, Дикарь - 2, Человек - 2, Демон - 1
 ```
 
-![](img/warriors+trolls_desk.PNG)
-![](img/warriors+trolls_result.PNG)
+<details>
+  <summary>Смотреть скриншоты</summary>
+  
+  ![](img/warriors+trolls_desk.PNG)
+  ![](img/warriors+trolls_result.PNG)
+</details>
+
 
 # Рыцари
 
@@ -53,5 +58,9 @@
 Рыцарь - 6, Человек - 4, Убийца - 3, Дракон - 2, Дикарь - 2, Демон - 1
 ```
 
-![](img/knights_desk.PNG)
-![](img/khights_result.PNG)
+<details>
+  <summary>Смотреть скриншоты</summary>
+  
+  ![](img/knights_desk.PNG)
+  ![](img/khights_result.PNG)
+</details>
