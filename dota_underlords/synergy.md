@@ -24,6 +24,13 @@
 Маг - 6, Человек - 4, Первородный - 2, Воин - 3, Дикарь - 2, Демон - 1
 ```
 
+<details>
+  <summary>Смотреть скриншоты</summary>
+  
+  ![](img/mages+humans_desk.PNG)
+  ![](img/mages+humans_result.PNG)
+</details>
+
 
 # Воины + тролли
 
@@ -118,3 +125,9 @@
 ```
 Убийца - 6, Неуловимый - 2, Бессердечный - 2, Дикарь - 2, Чешуйчатый - 2, Чернокнижник - 2, Демон - 1
 ```
+
+<details>
+  <summary>Смотреть скриншоты</summary>
+  
+  ![](img/assassins_result.PNG)
+</details>
